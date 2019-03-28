@@ -1,0 +1,10 @@
+C:\Users\Perla Solis\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Perla Solis\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Perla Solis\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Perla Solis\source\repos\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Perla Solis\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Perla Solis\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Perla Solis\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Perla Solis\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Perla Solis\source\repos\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Perla Solis\source\repos\calculator\calculator\obj\Debug\calculator.Calculator_Design.resources
